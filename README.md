@@ -1,6 +1,6 @@
 # Research of Visualization for Urban Computing and Spatiotemporal Data
 
-[TOC]
+
 
 ## IEEE VIS 2021
 
